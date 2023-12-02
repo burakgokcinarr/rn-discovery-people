@@ -6,9 +6,9 @@ Meet new people from different cultures and enjoy the conversation
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Uygulama Özellikleri
-* Kullanıcı Giriş/Kayıt işlemleri
+* Kullanıcı Giriş / Kayıt işlemleri
 * Arkadaş Ekleme / Çıkarma
-* Sadece Arkadaşların arası sınırsız mesajlaşma
+* Sadece Arkadaşların arasında sınırsız mesajlaşma
 
 ## Kullanılan Teknolojiler
 * Expo CLI
